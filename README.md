@@ -20,6 +20,7 @@ int main() {
 			printf("\n\nO Emprestimo NAO CONCEDIDO.\n");
 		}
 return(0);				
+
 }
 		
 	
